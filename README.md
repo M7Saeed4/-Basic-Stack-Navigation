@@ -5,10 +5,10 @@ A basic Flutter app demonstrating stack navigation.
 ## Screens
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/Home%20Screen.png)
 
 ### Detail Screen
-![Detail Screen](screenshots/detail_screen.png)
+![Detail Screen](screenshots/Detail%20Screen.png)
 
 ## Navigation
 - `Navigator.push` adds DetailScreen to the stack
